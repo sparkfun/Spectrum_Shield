@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.1.0">
+<eagle version="6.4">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -21440,8 +21440,8 @@ logo. Default layer for the logo on the board is tSilk.</description>
 <instance part="AUDIOJACK1" gate="G$1" x="185.42" y="76.2" rot="R180"/>
 <instance part="AUDIOJACK2" gate="G$1" x="185.42" y="58.42" rot="R180"/>
 <instance part="LOGO1" gate="G$1" x="233.68" y="48.26"/>
-<instance part="LOGO2" gate="G$1" x="213.36" y="40.64"/>
-<instance part="LOGO3" gate="G$1" x="88.9" y="0"/>
+<instance part="LOGO2" gate="G$1" x="210.82" y="40.64"/>
+<instance part="LOGO3" gate="G$1" x="147.32" y="35.56"/>
 </instances>
 <busses>
 </busses>
@@ -21658,8 +21658,8 @@ logo. Default layer for the logo on the board is tSilk.</description>
 <net name="RIGHT" class="0">
 <segment>
 <wire x1="38.1" y1="68.58" x2="30.48" y2="68.58" width="0.1524" layer="91"/>
+<label x="30.48" y="68.58" size="1.778" layer="95"/>
 <pinref part="C3" gate="G$1" pin="1"/>
-<label x="30.48" y="68.58" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
 <wire x1="180.34" y1="91.44" x2="175.26" y2="91.44" width="0.1524" layer="91"/>
@@ -21680,8 +21680,8 @@ logo. Default layer for the logo on the board is tSilk.</description>
 <net name="LEFT" class="0">
 <segment>
 <wire x1="38.1" y1="124.46" x2="30.48" y2="124.46" width="0.1524" layer="91"/>
+<label x="30.48" y="124.46" size="1.778" layer="95"/>
 <pinref part="C1" gate="G$1" pin="1"/>
-<label x="30.48" y="124.46" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
 <wire x1="180.34" y1="96.52" x2="175.26" y2="96.52" width="0.1524" layer="91"/>
