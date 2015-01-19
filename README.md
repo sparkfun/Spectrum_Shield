@@ -13,6 +13,10 @@ Repository Contents
 * **/Hardware** - All Eagle design files (.brd, .sch)
 * **/Production** - Test bed files and production panel files
 
+Product Versions
+----------------
+* [DEV-10306](https://www.sparkfun.com/products/10306)- Version 1.4. Retired. 
+
 License Information
 -------------------
 The hardware is released under [Creative Commons ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
