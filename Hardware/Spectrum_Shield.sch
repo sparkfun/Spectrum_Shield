@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.1.0">
+<eagle version="7.2.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -137,7 +137,7 @@
 <layer number="251" name="SMDround" color="7" fill="1" visible="no" active="no"/>
 <layer number="254" name="cooling" color="7" fill="1" visible="yes" active="yes"/>
 </layers>
-<schematic xreflabel="%F%N/%S.%C%R" xrefpart="/%S.%C%R">
+<schematic xreflabel="%F%N/%S" xrefpart="/%S">
 <libraries>
 <library name="SparkFun">
 <packages>
@@ -21463,6 +21463,7 @@ logo. Default layer for the logo on the board is tSilk.</description>
 <wire x1="203.2" y1="137.16" x2="187.96" y2="137.16" width="0.1524" layer="91"/>
 <pinref part="U1" gate="G$1" pin="*D6"/>
 <pinref part="JP2" gate="G$1" pin="1"/>
+<label x="193.04" y="137.16" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="STROBE" class="0">
@@ -21634,8 +21635,8 @@ logo. Default layer for the logo on the board is tSilk.</description>
 <net name="ANALOG0" class="0">
 <segment>
 <wire x1="93.98" y1="127" x2="106.68" y2="127" width="0.1524" layer="91"/>
-<label x="93.98" y="127" size="1.778" layer="95"/>
 <pinref part="IC1" gate="G$1" pin="DCOUT"/>
+<label x="106.68" y="127" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
 <wire x1="162.56" y1="154.94" x2="160.02" y2="154.94" width="0.1524" layer="91"/>
@@ -21646,8 +21647,8 @@ logo. Default layer for the logo on the board is tSilk.</description>
 <net name="ANALOG1" class="0">
 <segment>
 <wire x1="93.98" y1="71.12" x2="104.14" y2="71.12" width="0.1524" layer="91"/>
-<label x="93.98" y="71.12" size="1.778" layer="95"/>
 <pinref part="IC2" gate="G$1" pin="DCOUT"/>
+<label x="104.14" y="71.12" size="1.27" layer="95" xref="yes"/>
 </segment>
 <segment>
 <wire x1="162.56" y1="152.4" x2="160.02" y2="152.4" width="0.1524" layer="91"/>
