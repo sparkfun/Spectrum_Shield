@@ -21463,6 +21463,7 @@ logo. Default layer for the logo on the board is tSilk.</description>
 <wire x1="203.2" y1="137.16" x2="187.96" y2="137.16" width="0.1524" layer="91"/>
 <pinref part="U1" gate="G$1" pin="*D6"/>
 <pinref part="JP2" gate="G$1" pin="1"/>
+<label x="193.04" y="137.16" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="STROBE" class="0">
