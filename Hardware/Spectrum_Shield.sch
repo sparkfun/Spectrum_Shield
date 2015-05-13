@@ -21971,7 +21971,7 @@ SMT- SWCH-08247</description>
 <instance part="JP4" gate="G$1" x="233.68" y="30.48"/>
 <instance part="JP5" gate="G$1" x="241.3" y="30.48"/>
 <instance part="AUDIOJACK1" gate="G$1" x="73.66" y="43.18" rot="R180"/>
-<instance part="AUDIOJACK2" gate="G$1" x="106.68" y="43.18" rot="R180"/>
+<instance part="AUDIOJACK2" gate="G$1" x="109.22" y="43.18" rot="R180"/>
 <instance part="LOGO1" gate="G$1" x="233.68" y="48.26"/>
 <instance part="LOGO2" gate="G$1" x="213.36" y="40.64"/>
 <instance part="LOGO3" gate="G$1" x="152.4" y="35.56"/>
@@ -22088,7 +22088,7 @@ SMT- SWCH-08247</description>
 <pinref part="GND7" gate="1" pin="GND"/>
 </segment>
 <segment>
-<wire x1="101.6" y1="40.64" x2="93.98" y2="40.64" width="0.1524" layer="91"/>
+<wire x1="104.14" y1="40.64" x2="93.98" y2="40.64" width="0.1524" layer="91"/>
 <wire x1="93.98" y1="40.64" x2="93.98" y2="38.1" width="0.1524" layer="91"/>
 <pinref part="AUDIOJACK2" gate="G$1" pin="SLEEVE"/>
 <pinref part="GND2" gate="1" pin="GND"/>
@@ -22203,7 +22203,7 @@ SMT- SWCH-08247</description>
 <label x="20.32" y="38.1" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<wire x1="101.6" y1="43.18" x2="96.52" y2="43.18" width="0.1524" layer="91"/>
+<wire x1="104.14" y1="43.18" x2="96.52" y2="43.18" width="0.1524" layer="91"/>
 <pinref part="AUDIOJACK2" gate="G$1" pin="RIGHT"/>
 <label x="96.52" y="43.18" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
@@ -22230,7 +22230,7 @@ SMT- SWCH-08247</description>
 <label x="63.5" y="45.72" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<wire x1="101.6" y1="45.72" x2="96.52" y2="45.72" width="0.1524" layer="91"/>
+<wire x1="104.14" y1="45.72" x2="96.52" y2="45.72" width="0.1524" layer="91"/>
 <pinref part="AUDIOJACK2" gate="G$1" pin="LEFT"/>
 <label x="96.52" y="45.72" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>

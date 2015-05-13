@@ -164,7 +164,7 @@
 <wire x1="0" y1="2.54" x2="2.54" y2="0" width="0.2032" layer="20"/>
 <text x="32.766" y="14.224" size="2.1844" layer="22" font="vector" ratio="15" rot="MR90">bliptronics.com</text>
 <text x="37.084" y="36.83" size="1.27" layer="22" font="vector" ratio="15" rot="MR270">Based on design by</text>
-<text x="45.339" y="45.212" size="1.27" layer="21" font="vector" ratio="15">Audio IN</text>
+<text x="45.339" y="45.212" size="1.27" layer="21" font="vector" ratio="15">Audio In</text>
 <text x="46.609" y="40.132" size="1.27" layer="21" font="vector" ratio="15">L</text>
 <text x="49.149" y="40.132" size="1.27" layer="21" font="vector" ratio="15">G</text>
 <text x="51.689" y="40.132" size="1.27" layer="21" font="vector" ratio="15">R</text>
