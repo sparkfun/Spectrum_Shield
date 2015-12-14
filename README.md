@@ -1,7 +1,7 @@
 SparkFun Spectrum Shield
 ========================
 
-![SparkFun Spectrum Shield](https://cdn.sparkfun.com//assets/parts/1/0/1/6/8/13116-01.jpg)
+![SparkFun Spectrum Shield](https://cdn.sparkfun.com//assets/parts/1/0/1/6/8/13116-01a.jpg)
 
 [*SparkFun Spectrum Shield(DEV-13116)*](https://www.sparkfun.com/products/13116)
 
@@ -13,13 +13,25 @@ Repository Contents
 * **/Hardware** - All Eagle design files (.brd, .sch)
 * **/Production** - Test bed files and production panel files
 
+Documentation
+--------------
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/spectrum-shield-hookup-guide)** - Basic hookup guide for the Spectrum Shield.
+* **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products.
+* **[SparkFun 3D Model repo](https://github.com/sparkfun/3D_Models)** - 3D models of SparkFun products. 
+
 Product Versions
 ----------------
 * [DEV-10306](https://www.sparkfun.com/products/10306)- Version 1.4. Retired. 
 
 License Information
 -------------------
-The hardware is released under [Creative Commons ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
-The code is beerware; if you see me (or any other SparkFun employee) at the local, and you've found our code helpful, please buy us a round!
+
+This product is _**open source**_! 
+
+Please review the LICENSE.md file for license information. 
+
+If you have any questions or concerns on licensing, please contact techsupport@sparkfun.com.
 
 Distributed as-is; no warranty is given.
+
+- Your friends at SparkFun.
