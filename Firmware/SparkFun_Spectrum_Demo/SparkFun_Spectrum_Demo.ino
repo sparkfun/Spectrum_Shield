@@ -1,7 +1,7 @@
 /****************************************************************************** 
 SparkFun Spectrum Shield Demo
 Toni Klopfenstein @ SparkFun Electronics
-February 2015
+December 2015
 https://github.com/sparkfun/Spectrum_Shield
 
 This sketch shows the basic functionality of the Spectrum Shield, working with a basic RGB LED Matrix.
@@ -18,7 +18,7 @@ Distributed as-is; no warranty is given.
 
 //Declare Spectrum Shield pin connections
 #define STROBE 4
-#define RESET 6
+#define RESET 5
 #define DC_One A0
 #define DC_Two A1 
 
