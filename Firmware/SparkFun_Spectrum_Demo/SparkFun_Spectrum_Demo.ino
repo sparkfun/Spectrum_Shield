@@ -77,10 +77,12 @@ void Read_Frequencies(){
   //Read frequencies for each band
   for (freq_amp = 0; freq_amp<7; freq_amp++)
   {
+    digitalWrite(STROBE, HIGH);
+    delayMicroseconds(50);
+    digitalWrite(STROBE, LOW);
+    delayMicroseconds(50);
     Frequencies_One[freq_amp] = analogRead(DC_One);
     Frequencies_Two[freq_amp] = analogRead(DC_Two); 
-    digitalWrite(STROBE, HIGH);
-    digitalWrite(STROBE, LOW);
   }
 }
 

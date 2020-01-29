@@ -73,7 +73,9 @@ void readSpectrum()
   {
     Spectrum[Band] = (analogRead(spectrumAnalog) + analogRead(spectrumAnalog) ) >>1; //Read twice and take the average by dividing by 2
     digitalWrite(spectrumStrobe,HIGH);
-    digitalWrite(spectrumStrobe,LOW);     
+    delayMicroseconds(50);
+    digitalWrite(spectrumStrobe,LOW);
+    delayMicroseconds(50);
   }
 }
 
