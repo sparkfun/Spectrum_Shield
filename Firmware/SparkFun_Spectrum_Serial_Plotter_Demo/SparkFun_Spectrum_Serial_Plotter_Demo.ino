@@ -1,19 +1,16 @@
 /******************************************************************************
   SparkFun Spectrum Shield Demo
-  Toni Klopfenstein @ SparkFun Electronics
-  December 2015
+  Wes Furuya @ SparkFun Electronics
+  January 2020
   https://github.com/sparkfun/Spectrum_Shield
 
-  This sketch shows the basic functionality of the Spectrum Shield, working with a basic RGB LED Matrix.
+  This sketch shows the basic functionality of the Spectrum Shield, using the Serial Monitor/Plotter.
 
-  The Spectrum Shield code is based off of the original demo sketch by Ben Moyes @Bliptronics.
+  The Spectrum Shield code is based off of the original demo sketch by Toni Klopfenstein @SparkFun Electronics.
   This sketch is available in the Spectrum Shield repository.
 
   Development environment specifics:
-  Developed in Arduino 1.6.
-
-  This code is beerware; if you see me (or any other SparkFun employee) at the local, and you've found our code helpful, please buy us a round!
-  Distributed as-is; no warranty is given.
+  Developed in Arduino 1.8.5
 *********************************************************************************/
 
 //Declare Spectrum Shield pin connections
@@ -73,7 +70,7 @@ void Read_Frequencies() {
   }
 }
 
-/*******************Light LEDs based on frequencies*****************************/
+/*****************Print Out Band Values for Serial Plotter*****************/
 void Graph_Frequencies() {
   for (i = 0; i < 7; i++)
   {
