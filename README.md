@@ -3,7 +3,7 @@ SparkFun Spectrum Shield
 
 [![SparkFun Spectrum Shield](https://cdn.sparkfun.com//assets/parts/1/0/1/6/8/13116-01a.jpg)](https://www.sparkfun.com/products/13116)
 
-[*SparkFun Spectrum Shield(DEV-13116)*](https://www.sparkfun.com/products/13116)
+[*SparkFun Spectrum Shield (DEV-13116)*](https://www.sparkfun.com/products/13116)
 
  This shield can be used to create sound visualizers, detect patterns in music or add sound activation to your microcontroller projects.
 
