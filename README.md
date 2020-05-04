@@ -15,12 +15,13 @@ Repository Contents
 
 Documentation
 --------------
-* **[Hookup Guide](https://learn.sparkfun.com/tutorials/spectrum-shield-hookup-guide)** - Basic hookup guide for the Spectrum Shield.
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/spectrum-shield-hookup-guide-v2)** - Basic hookup guide for the Spectrum Shield.
 * **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products.
 * **[SparkFun 3D Model repo](https://github.com/sparkfun/3D_Models)** - 3D models of SparkFun products. 
 
 Product Versions
 ----------------
+* [DEV-13116](https://www.sparkfun.com/products/13116)- Version 1.6
 * [DEV-10306](https://www.sparkfun.com/products/10306)- Version 1.4. Retired. 
 
 License Information
