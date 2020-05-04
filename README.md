@@ -1,7 +1,7 @@
 SparkFun Spectrum Shield
 ========================
 
-![SparkFun Spectrum Shield](https://cdn.sparkfun.com//assets/parts/1/0/1/6/8/13116-01a.jpg)
+[![SparkFun Spectrum Shield](https://cdn.sparkfun.com//assets/parts/1/0/1/6/8/13116-01a.jpg)](https://www.sparkfun.com/products/13116)
 
 [*SparkFun Spectrum Shield(DEV-13116)*](https://www.sparkfun.com/products/13116)
 
@@ -21,8 +21,8 @@ Documentation
 
 Product Versions
 ----------------
-* [DEV-13116](https://www.sparkfun.com/products/13116)- Version 1.6
-* [DEV-10306](https://www.sparkfun.com/products/10306)- Version 1.4. Retired. 
+* [DEV-13116](https://www.sparkfun.com/products/13116) - Version 1.6
+* [DEV-10306](https://www.sparkfun.com/products/10306) - Version 1.4. Retired. 
 
 License Information
 -------------------
